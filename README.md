@@ -1,2 +1,2 @@
-# LatexResume
+# LatexResumeTemplate
 Latex based resume template
